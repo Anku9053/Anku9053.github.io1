@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.51bdbf96.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.0c73ed5d.css",
+    "main.js": "/static/js/main.01f3df5e.js",
+    "static/media/Zaraclone.png": "/static/media/Zaraclone.ba0bca8ab14a1632d118.png",
+    "static/media/eddie baver.png": "/static/media/eddie baver.7cc8031483891b2bf18b.png",
+    "static/media/Paytmmall.png": "/static/media/Paytmmall.28a66befb3cce19f5eea.png",
+    "static/media/WhatsApp Image 2023-03-07 at 11.03.49 PM.jpeg": "/static/media/WhatsApp Image 2023-03-07 at 11.03.49 PM.c71537b47d9ef0b0c03f.jpeg",
+    "static/media/Ankesh_Kumar_Resume (2).pdf": "/static/media/Ankesh_Kumar_Resume (2).8a0bcb37ab04155e984c.pdf",
+    "static/media/MOnday.com.png": "/static/media/MOnday.com.91e7e9e95e89fb6874de.png",
+    "static/media/bluetexture.jpg": "/static/media/bluetexture.653ebc888115f6f92c73.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.51bdbf96.js.map": "/static/js/main.51bdbf96.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.0c73ed5d.css.map": "/static/css/main.0c73ed5d.css.map",
+    "main.01f3df5e.js.map": "/static/js/main.01f3df5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.51bdbf96.js"
+    "static/css/main.0c73ed5d.css",
+    "static/js/main.01f3df5e.js"
   ]
 }
